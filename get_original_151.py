@@ -8,6 +8,8 @@ def get_pokemon_info():
 
     pokemon_info = response.json()
 
+    assert len(pokemon_info['results']) == 151, "The number of Pokémon is not 151"
+
     print(pokemon_info['results'])
   else:
     return None
