@@ -5,4 +5,4 @@ Sample pokemon
 https://pokeapi.co/api/v2/pokemon/4/
 
 Sample generation
-https://pokeapi.co/api/v2/pokemon/1
+https://pokeapi.co/api/v2/generation/1/

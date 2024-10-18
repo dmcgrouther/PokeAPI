@@ -1,7 +1,7 @@
 import requests
 
 def get_generation(generation):
-  url = f"https://pokeapi.co/api/v2/pokemon/{generation}"
+  url = f"https://pokeapi.co/api/v2/generation/{generation}/"
   response = requests.get(url)
     
   if response.status_code == 200:
