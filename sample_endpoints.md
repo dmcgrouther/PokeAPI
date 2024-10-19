@@ -1,7 +1,7 @@
-Original 151 pokemon
+Original 151 Pokemon
 https://pokeapi.co/api/v2/pokemon?limit=151
 
-Sample pokemon
+Sample Pokemon
 https://pokeapi.co/api/v2/pokemon/4/
 
 Sample generation
