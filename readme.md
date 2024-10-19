@@ -12,7 +12,7 @@ In order to run the code from this repo, please go through the following steps.
 `pip install requests`
 
 4. You will be ready to run the Python files. In your terminal, you can run one of these commands:\
-`get_pokemon`\
-`get_pokemon_all_data`\
-`get_generation_all_data`\
-`get_original_151`
+`python get_pokemon.py`\
+`python get_pokemon_all_data.py`\
+`python get_generation_all_data.py`\
+`python get_original_151.py`
