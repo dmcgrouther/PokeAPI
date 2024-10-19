@@ -19,12 +19,12 @@ In order to run the code from this repo, go through the following steps:
 `python get_original_151.py`\
 `python get_generation_all_data.py`
 
-5. In order to test if this works, view the data that is returned from the API. When running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned.\ 
+5. In order to test if this works, view the data that is returned when you run the command in the terminal. For example, when running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned.\ 
 get_original_151.py is the only file with a built in test. 
 
-### What is the purpose of this SDK? What are the design decisions?
+### What is the purpose of this SDK? What were the design decisions?
 
-When creating this SDK I wanted to make it so the developer can get working as soon as possible and make API calls seamless. 
+When creating this SDK I wanted to make it so the developer can get working as soon as possible and make API calls seamlessly. 
 
 While working on this project I wanted to make sure to keep it simple and readable for other developers to use. 
 
