@@ -16,3 +16,13 @@ In order to run the code from this repo, please go through the following steps.
 `python get_pokemon_all_data.py`\
 `python get_original_151.py`\
 `python get_generation_all_data.py`
+
+5. In order to test if this works, view the data that is returned from the API. get_original_151.py is the only file with a built in test. 
+
+What is the purpose of this SDK? What are the design decisions?
+
+When creating this SDK I wanted to make it so the developer can get working as soon as possible. 
+
+Note: This medium article helped me get up and running with the API:
+https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba
+https://github.com/Mouhamed-dridi/Pokemon__API/blob/master/api.py
