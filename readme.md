@@ -2,6 +2,8 @@
 
 This SDK will help you get up and running to pull data from the PokeAPI. 
 
+## How do I install and get this running? 
+
 In order to run the code from this repo, please go through the following steps.
 
 1. Download this repository to your local machine.
@@ -21,8 +23,13 @@ In order to run the code from this repo, please go through the following steps.
 
 ### What is the purpose of this SDK? What are the design decisions?
 
-When creating this SDK I wanted to make it so the developer can get working as soon as possible. 
+When creating this SDK I wanted to make it so the developer can get working as soon as possible and make API calls seamless. 
 
-Note: This medium article helped me get up and running with the API:
+While working on this project I wanted to make sure to keep it simple and readable for other developers to use. 
+
+Notes:\ 
+This medium article helped me get up and running with the API:
 https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba
 https://github.com/Mouhamed-dridi/Pokemon__API/blob/master/api.py
+
+If I had more time I would have added more robust testing.
