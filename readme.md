@@ -26,7 +26,7 @@ In order to run the code from this repo, go through the following steps:
 
 When creating this SDK I wanted to make it so the developer can get working as soon as possible and make API calls seamlessly. 
 
-While working on this project I wanted to make sure to keep it simple and readable for other developers to use. 
+While working on this project I wanted to make sure to keep it simple and readable for other developers to use. I chose Python because Python is regarded as the easiest programming language to pick up and read. 
 
 #### Notes:
 
