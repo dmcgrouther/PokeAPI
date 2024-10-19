@@ -1,5 +1,6 @@
 import requests
 
+#return a subset of information about a Pokemon creature. 
 def get_pokemon_info(pokemon_name):
   url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_name.lower()}"
   response = requests.get(url)
@@ -17,7 +18,6 @@ def get_pokemon_info(pokemon_name):
   else:
     return None
 
-# Example usage
 pokemon_name = input("Enter the Pokémon name: ")
 pokemon_info = get_pokemon_info(pokemon_name)
 

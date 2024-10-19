@@ -1,5 +1,6 @@
 import requests
 
+#get all the data you need about a Pokemon generation
 def get_generation(generation):
   url = f"https://pokeapi.co/api/v2/generation/{generation}/"
   response = requests.get(url)
@@ -12,7 +13,6 @@ def get_generation(generation):
   else:
     return None
 
-# Example usage
 generation = input("Enter generation number: ")
 generation_info = get_generation(generation)
 

@@ -11,7 +11,7 @@ In order to run the code from this repo, please go through the following steps.
 3. Install requests using this command in the terminal\
 `pip install requests`
 
-4. You will be ready to run the Python files. In your terminal, you can run one of these commands:\
+4. You will now be ready to run the Python files which interact with the PokeAPI. In your terminal, you can run one of these commands:\
 `python get_pokemon.py`\
 `python get_pokemon_all_data.py`\
 `python get_original_151.py`\
