@@ -28,7 +28,7 @@ When creating this SDK I wanted to make it so the developer can get working as s
 
 While working on this project I wanted to make sure to keep it simple and readable for other developers to use. 
 
-####Notes:
+#### Notes:
 
 Regarding my familiarity with Pokemon, I am familiar with generation 1 & kanto region; other than that I am not very familiar with the others. I did not have a great idea of what to look for with generation data so I focused on pokemon data. 
 
