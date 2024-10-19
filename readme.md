@@ -2,13 +2,13 @@
 
 This SDK will help you get up and running to pull data from the PokeAPI. 
 
-### How do I install and get this running? 
+### How do I install the SDK and get this running? 
 
 In order to run the code from this repo, go through the following steps:
 
 1. Download this repository to your local machine.
 
-2. Change into the respective folder using this command:\
+2. Change into the project folder using this command:\
 `cd PokeAPI`
 
 3. Install requests using this command in the terminal.\
@@ -20,7 +20,8 @@ In order to run the code from this repo, go through the following steps:
 `python get_original_151.py`\
 `python get_generation_all_data.py`
 
-5. In order to test if this works, view the data that is returned when you run the command in the terminal. For example, when running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned.\ 
+5. In order to test if this works, view the data that is returned when you run the command in the terminal. For example, when running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned.\
+ 
 get_original_151.py is the only file with a built in test. 
 
 ### What is the purpose of this SDK? What were the design decisions?
