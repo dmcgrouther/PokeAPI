@@ -1,4 +1,4 @@
-## Gotta get request them all!!
+## PokeAPI - Gotta get request them all!!
 
 This SDK will help you get up and running to pull data from the PokeAPI. 
 
