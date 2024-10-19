@@ -32,8 +32,8 @@ While working on this project I wanted to make sure to keep it simple and readab
 
 Regarding my familiarity with Pokemon, I am familiar with generation 1 & kanto region; other than that I am not very familiar with the others. I did not have a great idea of what to look for with generation data so I focused on pokemon data. 
 
-This medium article helped me get up and running with the API:
-https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba
+This medium article helped me get up and running with the API:\
+https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba\
 https://github.com/Mouhamed-dridi/Pokemon__API/blob/master/api.py
 
 If I had more time I would have added more robust testing.
