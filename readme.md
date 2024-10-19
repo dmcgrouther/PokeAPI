@@ -20,9 +20,7 @@ In order to run the code from this repo, go through the following steps:
 `python get_original_151.py`\
 `python get_generation_all_data.py`
 
-5. In order to test if this works, view the data that is returned when you run the command in the terminal. For example, when running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned.\
- 
-get_original_151.py is the only file with a built in test. 
+5. In order to test if this works, view the data that is returned when you run the command in the terminal. For example, when running get_pokemon.py or get_pokemon_all_data.py you should be able to see the respective Pokemon you entered in the data returned. get_original_151.py is the only file with a built in test. 
 
 ### What is the purpose of this SDK? What were the design decisions?
 
@@ -32,7 +30,7 @@ While working on this project I wanted to make sure to keep it simple and readab
 
 #### Notes:
 
-Regarding my familiarity with Pokemon, I am familiar with generation 1 & kanto region; other than that I am not very familiar with the others. I did not have a great idea of what to look for with generation data so I focused on pokemon data. 
+Regarding my familiarity with Pokemon, I am familiar with generation 1 & Kanto region; other than that I am not very familiar with the other generations. I did not have a great idea of what to look for with generation data so I focused on Pokemon creature data. 
 
 This medium article helped me get up and running with the API:\
 https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba\
