@@ -32,7 +32,7 @@ While working on this project I wanted to make sure to keep it simple and readab
 
 Regarding my familiarity with Pokemon, I am familiar with generation 1 & Kanto region; other than that I am not very familiar with the other generations. I did not have a great idea of what to look for with generation data so I focused on Pokemon creature data. 
 
-This medium article helped me get up and running with the API:\
+This Medium article helped me get up and running with the API:\
 https://medium.com/@mohamed.mywork/learn-apis-with-pok%C3%A9mon-and-python-7003b35b5ba\
 https://github.com/Mouhamed-dridi/Pokemon__API/blob/master/api.py
 
