@@ -2,7 +2,7 @@
 
 This SDK will help you get up and running to pull data from the PokeAPI. 
 
-#### How do I install and get this running? 
+### How do I install and get this running? 
 
 In order to run the code from this repo, please go through the following steps.
 
@@ -21,7 +21,7 @@ In order to run the code from this repo, please go through the following steps.
 
 5. In order to test if this works, view the data that is returned from the API. get_original_151.py is the only file with a built in test. 
 
-#### What is the purpose of this SDK? What are the design decisions?
+### What is the purpose of this SDK? What are the design decisions?
 
 When creating this SDK I wanted to make it so the developer can get working as soon as possible and make API calls seamless. 
 
