@@ -18,7 +18,7 @@ def get_pokemon_info(pokemon_name):
   else:
     return None
 
-pokemon_name = input("Enter the Pokémon name: ")
+pokemon_name = input("Enter the Pokémon name or number: ")
 pokemon_info = get_pokemon_info(pokemon_name)
 
 if pokemon_info:

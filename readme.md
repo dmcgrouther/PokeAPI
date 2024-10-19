@@ -8,7 +8,8 @@ In order to run the code from this repo, go through the following steps:
 
 1. Download this repository to your local machine.
 
-2. Change into the respective folder.
+2. Change into the respective folder using this command:\
+`cd PokeAPI`
 
 3. Install requests using this command in the terminal.\
 `pip install requests`
