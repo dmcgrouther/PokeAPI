@@ -2,7 +2,7 @@
 
 This SDK will help you get up and running to pull data from the PokeAPI. 
 
-## How do I install and get this running? 
+### How do I install and get this running? 
 
 In order to run the code from this repo, please go through the following steps.
 
